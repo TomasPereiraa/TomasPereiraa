@@ -1,7 +1,6 @@
 ### Hi there! 👋 I'm Tomás  
 
 🚀 **About Me**  
-- 🤓 I’m currently learning **Flutter**  
 - 📫 How to reach me: **tomasvpereira13@gmail.com**  
 
 ---
